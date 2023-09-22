@@ -1,0 +1,26 @@
+STRENGTHS
+- Knowledge of each others strengths
+- Mechanical engineering background
+- Programming knowledge
+- Good math skills
+- Hardworking students
+
+WEAKNESSES
+- Similar backgrounds
+- Little practical experience
+- No machine vision experience
+
+OPPORTUNITIES
+- Real-life application
+- Multiple ways to reach goals
+- ABB factory visitation possibilities?
+
+THREATHS
+- Spending too much time evaluating different scenarios
+	- (time allocation)
+- Dependency on school resources
+- Possibility of this project not being useful in real-life
+	- too slow compared to manual workers (bottlenecking production)
+- Picking the object in right orientation is crucial
+- If this problem was trivial, ABB would have implemented it already.
+
